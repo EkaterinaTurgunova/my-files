@@ -1,0 +1,38 @@
+Recipient Info
+First Name: @{FIRST NAME}@
+Last Name: @{Last Name}@
+Company: @{company}@
+Title: @{title}@
+Phone: @{phone}@
+Job Function: @{job_function}@
+Employee Size: @{employee size}@
+External UID: 
+
+Today's date is:
+@{mv_date_M/d/yyyy}@
+@{mv_date_MMddyyyy}@
+@{mv_date_MMM d, yyyy}@
+@{mv_date_MMMM}@
+@{mv_date_M}@
+@{mv_date_d}@
+@{mv_date_yy}@
+@{mv_date_yyyy}@
+
+Web version of this email working?
+@{mv_online_version}@
+ 
+Regression test deployment for XXXXXXX - please click the through all links:  
+ 
+http://www.google.com/
+http://www.cnn.com/
+http://www.yahoo.com/
+
+Forward to a friend:  @{forwardtoafriendlink}@
+
+Unicode: ☺ smile=улыбка (russian)
+
+Facebook>> http://www.facebook.com/sharer.php?u=www.omeda.com&t=Omeda
+Twitter>> http://twitter.com/?status=Omeda%20www.omeda.com
+
+Confirm Unsubscribe: @{confirmunsubscribelink}@
+Unsubscribe:  @{unsubscribelink}@
